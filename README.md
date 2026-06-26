@@ -73,31 +73,30 @@ An AI-powered platform that matches students with internship and apprenticeship 
  
 | | |
 |---|---|
-| 💼 | **IT Support Specialist & Software Developer** |
+| 💼 | **Project Manager & Software Developer** |
 | 🎓 | BSIT — ACLC College of Tacloban, Tacloban City, Leyte · 2022–2026 |
 | 📍 | Tacloban City, Leyte, Philippines |
 | 🏢 | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
-| 💡 | I build clean, functional systems with precision and reliability |
+| 💡 | I use AI tools to work faster, stay accurate, and deliver better results |
 | 🛠️ | PHP · Python · Java · MySQL · Git · Microsoft Office |
 | 🚀 | **Open to Work** |
  
-> 🔥 A detail-oriented IT graduate who bridges technical support and software development. Proven in managing records with precision, troubleshooting complex issues, and leading projects that deliver results — always on time.
+> 🔥 A detail-oriented IT graduate who combines technical support, software development, and AI-powered workflows. Proven in managing records with precision, troubleshooting complex issues, and leading projects that deliver results — always on time.
  
 ---
  
-## 🤝 IT Skills & Strengths
+## ⚡ How I Use AI to Work Faster
  
-> I don't just write code — I **support, manage, and build systems** end-to-end. From hardware troubleshooting to full project leadership.
+> I use AI as a **productivity tool** — not a replacement for my skills. It simply helps me get things done faster, cleaner, and more efficiently.
  
-| 🗂️ Area | 💪 What I Bring |
+| 🗂️ Area | ⚡ How AI Speeds Me Up |
 |---|---|
-| 🖥️ IT Support | Hardware/software troubleshooting, maintenance, system updates |
-| 📋 Data Management | Accurate data entry, digital records organization, IT documentation |
-| 🌐 Networking | Network setup, computer configuration, office tech operations |
-| 👥 Project Leadership | End-to-end planning, team coordination, milestone monitoring |
-| 💻 Development | Clean, functional web and software applications |
+| 🖥️ IT Support | Quickly generate troubleshooting steps and documentation drafts |
+| 📋 Data Management | Speed up data encoding, formatting, and record organization tasks |
+| 👥 Project Management | Faster task planning, report drafting, and meeting summaries |
+| 💻 Development | Use AI suggestions to write and debug code more efficiently |
  
-> *Precision in support. Clarity in code. Leadership in execution.*
+> *I still do the work — AI just helps me do it faster and better.*
 ---
 
 ## 🌐 Connect with Me
