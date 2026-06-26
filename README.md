@@ -1,9 +1,3 @@
-Hi there, I'm Gabriel Miles F. Cañete 👋
-
-BSIT graduate with hands-on IT support experience, accurate data entry, and a strong foundation in software development and systems. Proven ability to manage records with precision, troubleshoot complex issues, and lead technical projects that deliver results.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
