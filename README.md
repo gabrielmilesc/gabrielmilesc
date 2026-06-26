@@ -114,7 +114,7 @@ An AI-powered platform that matches students with internship and apprenticeship 
   <a href="https://www.facebook.com/Milescanete01">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-miles-ca%C3%B1ete-73bb49373/">
+  <a href="https://www.linkedin.com/in/gabrielmilescañete/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
