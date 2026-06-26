@@ -3,12 +3,12 @@ BSIT graduate with hands-on IT support experience, accurate data entry, and a st
 ---
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_gabrielmilesc&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_gabrielmilesc&theme=dark&hide_border=true" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_gabrielmilesc&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8"/>
 </p>
 ---
 🛠️ Tech Stack
