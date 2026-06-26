@@ -85,7 +85,7 @@ An AI-powered platform that matches students with internship and apprenticeship 
  
 ---
  
-## ⚡ How I Use AI to Work Faster
+## 🤖 AI-Powered Developer Mindset
  
 > I use AI as a **productivity tool** — not a replacement for my skills. It simply helps me get things done faster, cleaner, and more efficiently.
  
@@ -110,5 +110,11 @@ An AI-powered platform that matches students with internship and apprenticeship 
   </a>
   <a href="https://github.com/gabrielmilesc">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/Milescanete01">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-miles-ca%C3%B1ete-73bb49373/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
