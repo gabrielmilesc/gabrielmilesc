@@ -70,13 +70,34 @@ An AI-powered platform that matches students with internship and apprenticeship 
 ---
 
 ## 🧑‍💻 About Me
-
-- 💻 Passionate about building clean, functional systems and applications
-- 🛠️ Experienced in IT support, data entry, and technical documentation
-- 🤝 Strong collaborator with leadership experience in project management
-- 🌱 Continuously growing my skills in software development and networking
-- 📍 Based in Tacloban City, Leyte, Philippines
-
+ 
+| | |
+|---|---|
+| 💼 | **IT Support Specialist & Software Developer** |
+| 🎓 | BSIT — ACLC College of Tacloban, Tacloban City, Leyte · 2022–2026 |
+| 📍 | Tacloban City, Leyte, Philippines |
+| 🏢 | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
+| 💡 | I build clean, functional systems with precision and reliability |
+| 🛠️ | PHP · Python · Java · MySQL · Git · Microsoft Office |
+| 🚀 | **Open to Work** |
+ 
+> 🔥 A detail-oriented IT graduate who bridges technical support and software development. Proven in managing records with precision, troubleshooting complex issues, and leading projects that deliver results — always on time.
+ 
+---
+ 
+## 🤝 IT Skills & Strengths
+ 
+> I don't just write code — I **support, manage, and build systems** end-to-end. From hardware troubleshooting to full project leadership.
+ 
+| 🗂️ Area | 💪 What I Bring |
+|---|---|
+| 🖥️ IT Support | Hardware/software troubleshooting, maintenance, system updates |
+| 📋 Data Management | Accurate data entry, digital records organization, IT documentation |
+| 🌐 Networking | Network setup, computer configuration, office tech operations |
+| 👥 Project Leadership | End-to-end planning, team coordination, milestone monitoring |
+| 💻 Development | Clean, functional web and software applications |
+ 
+> *Precision in support. Clarity in code. Leadership in execution.*
 ---
 
 ## 🌐 Connect with Me
