@@ -41,7 +41,7 @@ An AI-powered platform that matches students with internship and apprenticeship 
 
 ---
 ### 🖥️ PRO8 Internal Web Systems
- 
+ > *Intern Project | Project Manager*
 An internal management platform built with **Laravel 12** for streamlining IT operations within an organization.
  
 ---
