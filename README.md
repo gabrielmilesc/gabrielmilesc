@@ -52,8 +52,8 @@ An internal management platform built with **Laravel 12** for streamlining IT op
 - 🎫 IT ticketing, ✅ task management, 💬 team messaging, and 📅 event coordination
 - 📡 Real-time updates via long polling for messages and notifications
 - 🤖 AI-powered face detection on login using `face-api.js`
+- 🏗️ Built with **Laravel**, **REST API**, **MySQL**, **PHP**
 
-  ---
   ---
 
 ### 🛒 POS & Inventory System
