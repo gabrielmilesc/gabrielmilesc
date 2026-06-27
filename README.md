@@ -56,9 +56,6 @@ A role-based web system that handles IT ticketing, task management, team messagi
 | 🔐 **Auth** | Role-based (SuperAdmin, Admin, IT Personnel, Staff) |
 | 🤖 **AI** | Face detection on login via `face-api.js` |
 | 📡 **Real-time** | Long polling for messages & notifications |
- 
-## 🛠️ Tech Stack
- 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
