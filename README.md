@@ -52,13 +52,7 @@ An internal management platform built with **Laravel 12** for streamlining IT op
 - 🎫 IT ticketing, ✅ task management, 💬 team messaging, and 📅 event coordination
 - 📡 Real-time updates via long polling for messages and notifications
 - 🤖 AI-powered face detection on login using `face-api.js`
-  ---
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+  
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
