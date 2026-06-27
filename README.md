@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,35:1a0537,65:0d1b4a,100:050d1a&height=290&section=header&text=Harold%20Egrubay&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Engineer%20%7C%20Laravel%20Specialist&descAlignY=62&descSize=17&stroke=6c63ff&strokeWidth=2" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+Integration+Engineer;Laravel+%7C+REST+API+Architect;AJAX+Long+Polling+%7C+Real-Time;AI+NLP+Integration;Building+Production-Ready+Systems" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gabrielmilesc&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=050d1a"/>
+<img src="https://img.shields.io/github/followers/gabrielmilesc?style=for-the-badge&color=6c63ff&labelColor=050d1a&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/Location-Tacloban_City_PH-00d4ff?style=for-the-badge&labelColor=050d1a"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00ff88?style=for-the-badge&labelColor=050d1a"/>
+
+</div>
+
+<br/>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
