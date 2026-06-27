@@ -52,6 +52,21 @@ An internal management platform built with **Laravel 12** for streamlining IT op
 - 🎫 IT ticketing, ✅ task management, 💬 team messaging, and 📅 event coordination
 - 📡 Real-time updates via long polling for messages and notifications
 - 🤖 AI-powered face detection on login using `face-api.js`
+
+  ---
+  ---
+
+### 🛒 POS & Inventory System
+> *Full-Featured Point-of-Sale System*
+
+Full-featured Point-of-Sale system with real-time inventory tracking and analytics.
+
+- 📦 Real-time inventory tracking with low-stock alerts
+- 🔍 AJAX-powered live product search & dynamic cart updates
+- 🔐 Role-based access — Admin, Cashier, Manager
+- 📊 Sales analytics dashboard with CSV/PDF export reporting
+- 💳 Third-party API integration for payment processing
+- 🏗️ Built with **Laravel**, **REST API**, **MySQL**, **AJAX**
   
 ## 🛠️ Tech Stack
 
