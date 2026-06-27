@@ -45,7 +45,6 @@ An AI-powered platform that matches students with internship and apprenticeship 
 
 An internal management platform built with **Laravel 12** for streamlining IT operations within an organization.
  
----
 - 🏗️ Built with **Laravel 12** (PHP 8.2+)
 - 🎨 Frontend using **Blade**, **Tailwind CSS**, and **Vite**
 - 🗄️ Database: **MySQL / MariaDB**
