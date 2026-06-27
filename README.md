@@ -12,16 +12,35 @@
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmilesc&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=gabrielmilesc&theme=dark&hide_border=true" height="165"/>
-</p>
-
-
-
+## 🧑‍💻 About Me
+ 
+| | |
+|---|---|
+| 💼 | **Project Manager & Software Developer** |
+| 🎓 | BSIT — ACLC College of Tacloban, Tacloban City, Leyte · 2022–2026 |
+| 📍 | Tacloban City, Leyte, Philippines |
+| 🏢 | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
+| 💡 | I use AI tools to work faster, stay accurate, and deliver better results |
+| 🛠️ | PHP · Python · Java · MySQL · Git · Microsoft Office |
+| 🚀 | **Open to Work** |
+ 
+> 🔥 A detail-oriented IT graduate who combines technical support, software development, and AI-powered workflows. Proven in managing records with precision, troubleshooting complex issues, and leading projects that deliver results — always on time.
+ 
+---
+ 
+## 🤖 AI-Powered Developer Mindset
+ 
+> I use AI as a **productivity tool** — not a replacement for my skills. It simply helps me get things done faster, cleaner, and more efficiently.
+ 
+| 🗂️ Area | ⚡ How AI Speeds Me Up |
+|---|---|
+| 🖥️ IT Support | Quickly generate troubleshooting steps and documentation drafts |
+| 📋 Data Management | Speed up data encoding, formatting, and record organization tasks |
+| 👥 Project Management | Faster task planning, report drafting, and meeting summaries |
+| 💻 Development | Use AI suggestions to write and debug code more efficiently |
+ 
+> *I still do the work — AI just helps me do it faster and better.*
 ---
 
 ## 🎓 Education
@@ -108,34 +127,16 @@ Full-featured Point-of-Sale system with real-time inventory tracking and analyti
 
 ---
 
-## 🧑‍💻 About Me
- 
-| | |
-|---|---|
-| 💼 | **Project Manager & Software Developer** |
-| 🎓 | BSIT — ACLC College of Tacloban, Tacloban City, Leyte · 2022–2026 |
-| 📍 | Tacloban City, Leyte, Philippines |
-| 🏢 | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
-| 💡 | I use AI tools to work faster, stay accurate, and deliver better results |
-| 🛠️ | PHP · Python · Java · MySQL · Git · Microsoft Office |
-| 🚀 | **Open to Work** |
- 
-> 🔥 A detail-oriented IT graduate who combines technical support, software development, and AI-powered workflows. Proven in managing records with precision, troubleshooting complex issues, and leading projects that deliver results — always on time.
- 
----
- 
-## 🤖 AI-Powered Developer Mindset
- 
-> I use AI as a **productivity tool** — not a replacement for my skills. It simply helps me get things done faster, cleaner, and more efficiently.
- 
-| 🗂️ Area | ⚡ How AI Speeds Me Up |
-|---|---|
-| 🖥️ IT Support | Quickly generate troubleshooting steps and documentation drafts |
-| 📋 Data Management | Speed up data encoding, formatting, and record organization tasks |
-| 👥 Project Management | Faster task planning, report drafting, and meeting summaries |
-| 💻 Development | Use AI suggestions to write and debug code more efficiently |
- 
-> *I still do the work — AI just helps me do it faster and better.*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmilesc&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=gabrielmilesc&theme=dark&hide_border=true" height="165"/>
+</p>
+
+
+
 ---
 
 ## 🌐 Connect with Me
