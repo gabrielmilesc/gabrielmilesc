@@ -57,8 +57,6 @@ A role-based web system that handles IT ticketing, task management, team messagi
 | 🤖 **AI** | Face detection on login via `face-api.js` |
 | 📡 **Real-time** | Long polling for messages & notifications |
  
----
- 
 ## 🛠️ Tech Stack
  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
