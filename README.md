@@ -29,7 +29,7 @@
  
 ---
  
-## 🤖 AI-Powered Developer Mindset
+## 🤖 Think Smarter with AI
  
 > I use AI as a **productivity tool** — not a replacement for my skills. It simply helps me get things done faster, cleaner, and more efficiently.
  
