@@ -40,21 +40,18 @@ An AI-powered platform that matches students with internship and apprenticeship 
 - 📊 Prepared project reports and presentations for formal evaluation and defense
 
 ---
-# 🖥️ PRO8 Internal Web Systems
+### 🖥️ PRO8 Internal Web Systems
  
 An internal management platform built with **Laravel 12** for streamlining IT operations within an organization.
  
 ---
- 
-### 📌 Overview
- 
 - 🏗️ Built with **Laravel 12** (PHP 8.2+)
 - 🎨 Frontend using **Blade**, **Tailwind CSS**, and **Vite**
 - 🗄️ Database: **MySQL / MariaDB**
 - 🔐 Role-based access control — SuperAdmin, Admin, IT Personnel, Staff
 - 🎫 IT ticketing, ✅ task management, 💬 team messaging, and 📅 event coordination
 - 📡 Real-time updates via long polling for messages and notifications
-- 🤖 AI-powered face detection on login using `face-api.js`
+- 🤖 AI-powered face detection on login using `face-api.js`|
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
